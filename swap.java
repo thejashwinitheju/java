@@ -9,9 +9,7 @@
   a=b;
   b=t;
   }
-  
-
-}*/
+  }*/
 
 
 //check a number divisable by 7 or not
@@ -137,7 +135,8 @@ System.out.println("the given number is even");
 
   // check the greatest in a given three number
 
-/*import java.util.Scanner;
+
+  import java.util.Scanner;
   public class swap{
     public static void main(String[] args){
     int x,y,z;
@@ -156,26 +155,20 @@ System.out.println("the given number is even");
       System.out.println("largest number is:+z");
     }
     }
-  }*/
+  }
 
 
   // ascending order
 
-  public class swap{
+  /*public class swap{
     public static void main(String[] args){
       int[] ass = new int[]{5,6,2,4,8};
       for(int i=0;i<ass.length;i++){
         System.out.println(ass[i]);
 
       }
-      for(int i=0;i<ass.length;i++){
-        for (int j=0;j<ass.length;j++){
-
-        }
       }
-
-      }
-    }
+    }*/
   
 
 
