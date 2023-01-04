@@ -1,3 +1,4 @@
+package itarative;
 public class sum {
     public static void main(String[] args) {
     int i,num=20, sum = 0;
