@@ -44,17 +44,7 @@ System.out.println("the given number is 3-digit");
 
 // check the number is even or odd
 
-/*public class swap{
-  public static void main (String[] arg){
-    int i=10;
-    if (i%2==0){
-System.out.println("the given number is even");
-    }else{
-      System.out.println("the given number is not odd");
-
-    }
-  }
-  }*/
+/**/
 
 
   //check the greatest number in given two number
