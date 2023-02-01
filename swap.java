@@ -16,13 +16,7 @@
 
 
 
-//check a number is multiple of 3 or not
 
-/**/
-
-// check a number is postive or negative
-
-/
 
 
 // check a number is 3-digit or not
@@ -41,10 +35,7 @@ System.out.println("the given number is 3-digit");
 }*/
 
 
-
-// check the number is even or odd
-
-/**/
+/
 
 
   //check the greatest number in given two number
@@ -88,29 +79,10 @@ System.out.println("the given number is 3-digit");
   }*/
 
 
-  // check the greatest in a given three number
+  
 
 
-  import java.util.Scanner;
-  public class swap{
-    public static void main(String[] args){
-    int x,y,z;
-    Scanner s = new Scanner(System.in);
-    System.out.println("enter the first number");
-  x=s.nextInt();
-  System.out.println("enter the second number");
-  y=s.nextInt();
-  System.out.println("enter the third number");
-  z=s.nextInt();
-    if (x>y&&x>z){
-      System.out.println("largest number is:+x");
-    }else if (y>z){
-      System.out.println("largest number is:+y");
-    }else{
-      System.out.println("largest number is:+z");
-    }
-    }
-  }
+  
 
 
   // ascending order
