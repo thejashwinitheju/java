@@ -19,31 +19,12 @@
 
 
 
-// check a number is 3-digit or not
-
-/*public class swap{
-  
-}*/
-
-
-/
 
 
   //check the greatest number in given two number
 
   /*public class swap{
-    public static void main(String[] args){
-      int a=40;
-      int b=50;
-      if (a>b){
-        System.out.println("B is greater then A");
-
-      }else{
-        System.out.println("B is not grater then A");
-
-      }
-
-    }
+   
   }*/
 
 
